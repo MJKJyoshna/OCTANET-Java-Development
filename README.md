@@ -6,4 +6,5 @@
     * Withdraw
     * Deposit
     * Transfer
+    * check balance
     * Quit
